@@ -2428,6 +2428,7 @@
 ||smart-widget-assets.ekomiapps.de^$third-party
 ||trusted-web-seal.cybertrust.ne.jp^
 ||trustev.com/trustev.min.js$third-party
+||api.twik.io^
 ||verify.authorize.net^$third-party
 ||verify.safesigned.com^$third-party
 ||websecurity.norton.com^$third-party
